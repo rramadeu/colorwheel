@@ -5,9 +5,9 @@ Blueberry Breeding Lab - University of Florida
 PI: Dr. Patricio Munoz  
 www.blueberrybreeding.com  
 
-Questions: rramadeu@ufl.edu  
+Questions: rramadeu@gmail.com
 rramadeu.github.io  
-Jun 2nd 2019  
+Jun 12th 2020  
 
 The R script creates two wheels. One with solid colors and a second with the same colors in gradient. The input is a xlsx spreadsheet with four columns (type, descrip, compounds, and colorHEX). 
 Descrip and compounds are subcategories of type. Each type has an unique color.
