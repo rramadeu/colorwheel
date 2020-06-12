@@ -1,12 +1,12 @@
-# R Script to create the Volatile Wheel ##
+# R script to create volatile wheel ##
 Idea: Haley Sater  
 Script: Rodrigo Amadeu  
-Blueberry Breeding Lab - University of Florida  
+Blueberry Breeding and Genomics Lab - University of Florida  
 PI: Dr. Patricio Munoz  
 www.blueberrybreeding.com  
 
 Questions: rramadeu@gmail.com
-rramadeu.github.io  
+https://rramadeu.github.io  
 Jun 12th 2020  
 
 The R script creates two wheels. One with solid colors and a second with the same colors in gradient. The input is a xlsx spreadsheet with four columns (type, descrip, compounds, and colorHEX). 
