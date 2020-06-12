@@ -5,7 +5,7 @@ Blueberry Breeding and Genomics Lab - University of Florida
 PI: Dr. Patricio Munoz  
 www.blueberrybreeding.com  
 
-Contact: Rodrigo Amadeu
+Contact: Rodrigo Amadeu  
 rramadeu@gmail.com  
 https://rramadeu.github.io  
 Jun 12th 2020  
