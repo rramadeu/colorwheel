@@ -3,6 +3,7 @@ Idea: Haley Sater
 Script: Rodrigo Amadeu  
 Blueberry Breeding Lab - University of Florida  
 PI: Dr. Patricio Munoz  
+www.blueberrybreeding.com  
 
 Questions: rramadeu@ufl.edu  
 rramadeu.github.io  
