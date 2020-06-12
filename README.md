@@ -1,12 +1,12 @@
 # R Script to create the Volatile Wheel ##
-Idea: Haley Sater
-Script: Rodrigo Amadeu
-Blueberry Breeding Lab - University of Florida
-PI: Dr. Patricio Munoz
+Idea: Haley Sater  
+Script: Rodrigo Amadeu  
+Blueberry Breeding Lab - University of Florida  
+PI: Dr. Patricio Munoz  
 
-Questions: rramadeu@ufl.edu
-rramadeu.github.io
-Jun 2nd 2019
+Questions: rramadeu@ufl.edu  
+rramadeu.github.io  
+Jun 2nd 2019  
 
 R Script to create volatile color wheel
 
