@@ -18,5 +18,5 @@ The colorHEX column is which color should be in the solid wheel. For visual purp
 The gradient wheel is create automatically based on the categories nesting. 
 
 You just need to fill the xlsx with your data and run the code in R. 
-It generates two svg figures that are easily edited in any image software (we used ![https://inkscape.org/](Inkscape).
-We put the names by hand due to time issues to code an automatic procedure.
+It generates two svg figures that are easily edited in any image software (we used https://inkscape.org/)
+We put the writing by hand due to time issues to code an automatic procedure.
